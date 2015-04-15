@@ -1,5 +1,7 @@
 var React = require("react");
 
+require("./style.css");
+
 module.exports = React.createClass({
 	render: function() {
 		return <div>
